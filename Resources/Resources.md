@@ -14,6 +14,7 @@ _(none yet)_
 - [[BRS Scanner — live data]] — where sessions live (Vercel + MongoDB) + schema
 - [[BRS Scanner — cross-session insights 2026-07-07]] — first analysis of 151 sessions
 - [[BRS analysis toolkit]] — read-only scripts (market report + scoring diagnosis)
+- [[BRS signal report artifact]] — the live dashboard (link + refresh steps)
 - [[MMR Template]] · [[CMR Template]] · [[SMS Template]] — the review-ladder deliverable templates
 - [[Review — SAMA website 62-100]] — worked CMR example
 - [[Strategy — SAMA revenue doubling]] — worked SMS example
