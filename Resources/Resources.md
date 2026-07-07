@@ -11,6 +11,8 @@ Reference knowledge and topics of interest, independent of any one project.
 _(none yet)_
 - [[Brand Resonance System]] — the proprietary methodology
 - [[BRS Scanner]] — the diagnostic quiz/scan + scoring
+- [[BRS Scanner — live data]] — where sessions live (Vercel + MongoDB) + schema
+- [[BRS Scanner — cross-session insights 2026-07-07]] — first analysis of 151 sessions
 - [[MMR Template]] · [[CMR Template]] · [[SMS Template]] — the review-ladder deliverable templates
 - [[Review — SAMA website 62-100]] — worked CMR example
 - [[Strategy — SAMA revenue doubling]] — worked SMS example

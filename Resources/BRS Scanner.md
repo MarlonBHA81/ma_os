@@ -31,6 +31,6 @@ Most prospects land 9–16 (Builder/Opportunity) — the qualified buying zone.
 
 A separate 6-question "Brand Resonance Quiz" scores 0–24 into: **Invisible (0–7), Emerging (8–13), Competing (14–19), Resonating (20–24)** — each with its own 5-email Quick Wins course.
 
-## Open question: session data
+## Session data — located ✅
 
-A scanner *session* = one prospect's actual run (their answers, score, site). That data isn't a Drive file — it's presumably in the scanner app's backend (possibly Cloudflare). Locating/exporting it is the missing piece for feeding real sessions into the [[Comprehensive Marketing Review]].
+A scanner *session* = one prospect's actual run (answers, score, site). **Found:** it's a Next.js app on Vercel (`/Users/mac/brs-scanner`) storing sessions in MongoDB — **151 sessions and counting**. Full details, schema and access in [[BRS Scanner — live data]]; first analysis in [[BRS Scanner — cross-session insights 2026-07-07]].
