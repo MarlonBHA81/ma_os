@@ -8,4 +8,5 @@ Maps of Content — hub notes that gather links to related notes across the vaul
 
 ## Maps
 
-- [[How ma_os works]] — the operating manual
+- [[How ma_os works]] — the operating manual- [[How ma_os works]] — the operating manual
+- [[Comprehensive Marketing Review]] — the MMR / CMR / SMS review ladder
