@@ -15,6 +15,7 @@ _(none yet)_
 - [[BRS Scanner — cross-session insights 2026-07-07]] — first analysis of 151 sessions
 - [[BRS analysis toolkit]] — read-only scripts (market report + scoring diagnosis)
 - [[BRS signal report artifact]] — the live dashboard (link + refresh steps)
+- [[BRS monitoring resilience]] — how monitoring survives live-app changes
 - [[MMR Template]] · [[CMR Template]] · [[SMS Template]] — the review-ladder deliverable templates
 - [[Review — SAMA website 62-100]] — worked CMR example
 - [[Strategy — SAMA revenue doubling]] — worked SMS example

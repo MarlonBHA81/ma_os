@@ -23,3 +23,5 @@ They never write to MongoDB. Run with plain `node` from the repo root.
 1. Turn `market-report.mjs` into a monthly job (repo already has `app/api/cron/`).
 2. Unify the score schema + backfill (reviewed production change).
 3. Capture recommendation/dimension feedback in the report UI to switch the learning loop on.
+
+See [[BRS monitoring resilience]] for how these survive changes to the live app.
