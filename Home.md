@@ -17,4 +17,4 @@ The front door to my brain. Everything is organized **by purpose**, not by tag.
 
 ## How this works
 
-New information gets written as a small, self-contained note and **wikilinked** to whatever it relates to. The links are what make this a brain instead of a folder of files. See [[How ma_os works]] for the operating rules.
+New information gets written as a small, self-contained note and **wikilinked** to whatever it relates to. The links are what make this a brain instead of a folder of files. See [[How ma_os works]] for the operating rules. Automations run in the [[WAT operating layer]] (ma_os = know, WAT = do).

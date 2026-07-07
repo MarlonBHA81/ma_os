@@ -11,10 +11,10 @@
             "id": "59f8c3b2e99c168a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -177,8 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "519a34436091c44f",
+  "active": "59f8c3b2e99c168a",
   "lastOpenFiles": [
+    "Resources/WAT operating layer.md",
+    "Home.md",
+    "Maps/How ma_os works.md",
+    "Maps/Comprehensive Marketing Review.md",
     "Resources/BRS monitoring resilience.md",
     "Resources/BRS signal report artifact.md",
     "Resources/BRS analysis toolkit.md",
@@ -189,7 +193,6 @@
     "Resources/SMS Template.md",
     "Resources/MMR Template.md",
     "Resources/CMR Template.md",
-    "Maps/Comprehensive Marketing Review.md",
     "Resources/BRS Scanner.md",
     "Resources/Brand Resonance System.md",
     "Areas/Story Advantage Marketing Agency.md",
@@ -199,8 +202,6 @@
     "Resources/Resources.md",
     "Areas/Areas.md",
     "Projects/Projects.md",
-    "Maps/How ma_os works.md",
-    "Home.md",
     "Maps",
     "Daily",
     "Archive",
