@@ -20,3 +20,6 @@ Access relies on `MONGO_URL` / `DB_NAME` in `/Users/mac/brs-scanner/.env.local`.
 
 ## Standing habit
 Run `node scripts/analysis/schema-health.mjs` before trusting a fresh report or redeploying the [[BRS signal report artifact|dashboard]]. Green = safe; amber/red = adapt an alias before publishing.
+
+## Scheduled monitor — ACTIVE (2026-07-07)
+Local `launchd` jobs run the guardrail **daily 08:00** and a market report **monthly** (see [[WAT operating layer]] · workflow `brs-scheduled-monitoring`). Because macOS **TCC** blocks background agents from `~/Documents`, the runner + outputs live in `~/Library/Application Support/wat-monitor/` (`monitor.log`, `alerts.md`, `reports/`). Drift → macOS notification. Writes into this brain are **best-effort** (only with Full Disk Access), so **each month: ask Claude to sync the report in + redeploy the dashboard**.
