@@ -19,7 +19,7 @@ Scanner → **MMR** → **CMR** → **SMS** — each tier goes deeper and moves 
 | 2 | **CMR** — Comprehensive Marketing Review | Full 8-framework website assessment scored /100 | [[CMR Template]] | [[Review — SAMA website 62-100]] |
 | 3 | **SMS** — Strategic Marketing Session | Live session turning gaps into a campaign roadmap | [[SMS Template]] | [[Strategy — SAMA revenue doubling]] |
 
-Everything scores against the [[Brand Resonance System]] phases (Differentiate / Integrate / Activate).
+Everything scores against the [[Brand Resonance System]] phases (Differentiate / Integrate / Activate). This review is **stage 1** of the [[Story Advantage delivery process]].
 
 ## Feeding it with real data (the improvement loop)
 

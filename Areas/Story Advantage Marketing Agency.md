@@ -16,7 +16,7 @@ The agency's marketing/website review is delivered as a 3-part ladder — see [[
 - **CMR** — Comprehensive Marketing Review (full deep-dive)
 - **SMS** — Strategic Marketing Session (live strategy)
 
-The top of the funnel is the [[BRS Scanner]] (the automated Brand Resonance quiz/scan).
+The top of the funnel is the [[BRS Scanner]] (the automated Brand Resonance quiz/scan). The full client pipeline is mapped in [[Story Advantage delivery process]].
 
 ## Where the data lives
 

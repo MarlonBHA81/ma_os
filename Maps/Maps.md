@@ -10,3 +10,4 @@ Maps of Content — hub notes that gather links to related notes across the vaul
 
 - [[How ma_os works]] — the operating manual- [[How ma_os works]] — the operating manual
 - [[Comprehensive Marketing Review]] — the MMR / CMR / SMS review ladder
+- [[Story Advantage delivery process]] — the full client pipeline (review → message → wireframe → design → build)

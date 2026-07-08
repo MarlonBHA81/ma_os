@@ -19,3 +19,10 @@ _(none yet)_
 - [[MMR Template]] · [[CMR Template]] · [[SMS Template]] — the review-ladder deliverable templates
 - [[Review — SAMA website 62-100]] — worked CMR example
 - [[Strategy — SAMA revenue doubling]] — worked SMS example
+
+### Delivery pipeline (see [[Story Advantage delivery process]])
+- [[Brand Messaging Session]] — copy + strategy stage
+- [[Brand Messaging Playbook]] — Brand Message · One-liner · Tagline
+- [[Wireframe page set]] — standard landing-page structure
+- [[Design stage]] — identity, colours, design-options library
+- [[Development tracks]] — Divi/WordPress · GHL AI · HTML
