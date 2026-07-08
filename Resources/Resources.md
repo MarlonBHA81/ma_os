@@ -26,3 +26,4 @@ _(none yet)_
 - [[Wireframe page set]] — standard landing-page structure
 - [[Design stage]] — identity, colours, design-options library
 - [[Development tracks]] — Divi/WordPress · GHL AI · HTML
+- [[Launch and promo]] — go-live + promo (stage 6, Activate)

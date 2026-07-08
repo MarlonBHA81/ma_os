@@ -12,5 +12,4 @@ Stage 5 of the [[Story Advantage delivery process]]. The designed [[Wireframe pa
 
 *(The [[BRS Scanner]] itself is a separate Next.js app — see [[BRS Scanner — live data]] — not one of these client-delivery routes.)*
 
-## Open question
-The source notes mentioned "**build a promo**" around this stage — promo assets, or a distinct launch step? Flagged in [[Story Advantage delivery process]] as a possible final *Activate* stage. To confirm.
+Feeds into [[Launch and promo]] (stage 6) — where "build a promo" and go-live happen.
