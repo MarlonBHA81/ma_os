@@ -11,10 +11,14 @@
             "id": "59f8c3b2e99c168a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Brand Messaging Session.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brand Messaging Session"
             }
           }
         ]
@@ -179,11 +183,11 @@
   },
   "active": "59f8c3b2e99c168a",
   "lastOpenFiles": [
+    "Resources/Brand Messaging Playbook.md",
     "Resources/Launch and promo.md",
     "Resources/Development tracks.md",
     "Resources/Design stage.md",
     "Resources/Wireframe page set.md",
-    "Resources/Brand Messaging Playbook.md",
     "Resources/Brand Messaging Session.md",
     "Maps/Story Advantage delivery process.md",
     "Daily/2026-07-07.md",
